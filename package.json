@@ -20,7 +20,7 @@
     "@ethersproject/networks": "^5.0.0",
     "@ethersproject/pbkdf2": "^5.0.0",
     "@ethersproject/properties": "^5.0.0",
-    "@ethersproject/providers": "https://github.com/michaeltout/ethersjs-providers-package.git",
+    "@ethersproject/providers": "https://github.com/VerusCoin/ethersjs-providers-package.git",
     "@ethersproject/random": "^5.0.0",
     "@ethersproject/rlp": "^5.0.0",
     "@ethersproject/sha2": "^5.0.0",
